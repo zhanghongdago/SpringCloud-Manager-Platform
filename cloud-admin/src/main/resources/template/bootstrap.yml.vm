@@ -1,0 +1,56 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: #[[${NACOS_HOST:localhost}:${NACOS_PORT:8848}]]#
+        file-extension: yaml
+      discovery:
+        server-addr: #[[${NACOS_HOST:localhost}:${NACOS_PORT:8848}]]#
+    sentinel:
+      transport:
+        dashboard: #[[${SENTINEL_HOST:localhost}:${SENTINEL_PORT:8080}]]#
+  profiles:
+    active: dev
+  main:
+    allow-bean-definition-overriding: true
+
+#请求和响应GZIP压缩支持
+feign:
+  httpclient:
+    enabled: false
+  okhttp:
+    enabled: true
+  compression:
+    request:
+      enabled: true
+      mime-types: text/xml,application/xml,application/json
+      min-request-size: 2048
+    response:
+      enabled: true
+
+ribbon:
+  eureka:
+    enabled: true
+  ReadTimeout: 120000
+  ConnectTimeout: 120000
+  MaxAutoRetries: 0
+  MaxAutoRetriesNextServer: 0
+  OkToRetryOnAllOperations: false
+  NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+
+
+hystrix:
+  threadpool:
+    default:
+      ## 并发执行的最大线程数，默认10
+      coreSize: 1000
+      ## BlockingQueue的最大队列数
+      maxQueueSize: 1000
+      ## 即使maxQueueSize没有达到，达到queueSizeRejectionThreshold该值后，请求也会被拒绝
+      queueSizeRejectionThreshold: 500
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 50000

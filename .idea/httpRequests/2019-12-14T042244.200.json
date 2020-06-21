@@ -1,0 +1,118 @@
+{
+  "status": 200,
+  "data": {
+    "total": 239,
+    "rows": [
+      {
+        "id": 1,
+        "menu": "部门管理",
+        "opt": "新增部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:09:46",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 2,
+        "menu": "部门管理",
+        "opt": "删除部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:12:14",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 3,
+        "menu": "部门管理",
+        "opt": "删除部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:12:14",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 4,
+        "menu": "部门管理",
+        "opt": "新增部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:12:18",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 5,
+        "menu": "部门管理",
+        "opt": "编辑部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:13:55",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 6,
+        "menu": "部门管理",
+        "opt": "新增部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:15:49",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 7,
+        "menu": "部门管理",
+        "opt": "新增部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:19:34",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 8,
+        "menu": "部门管理",
+        "opt": "新增部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:19:42",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 9,
+        "menu": "部门管理",
+        "opt": "新增部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:20:09",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      },
+      {
+        "id": 10,
+        "menu": "部门管理",
+        "opt": "新增部门值",
+        "uri": "/admin/depart",
+        "crtTime": "2018-02-13 10:20:46",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "tenantId": "ac88ceb386aa4231b09bf472cb937c24"
+      }
+    ]
+  }
+}

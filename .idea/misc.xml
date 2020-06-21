@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ace-job/xxl-job-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/ace-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ace-demo/ace-demo-depart-data/pom.xml" />
+        <option value="$PROJECT_DIR$/ace-demo/ace-oauth-sso-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ace-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ace-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/ace-modules/ace-tool/pom.xml" />
+        <option value="$PROJECT_DIR$/ace-modules/ace-workflow/pom.xml" />
+        <option value="$PROJECT_DIR$/ace-modules/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

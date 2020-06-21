@@ -1,0 +1,141 @@
+spring:
+  application:
+    name: cloud-admin
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    default-property-inclusion: non_null
+  redis:
+    database: 1
+    host: ${REDIS_HOST:127.0.0.1}
+    port: ${REDIS_PORT:6379}
+    jedis:
+      pool:
+        max-active: 20
+  datasource:
+    name: test
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/cloud_admin?useUnicode=true&characterEncoding=UTF8
+    username: root
+    password: 123456
+    # 使用druid数据源
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    filters: stat
+    maxActive: 20
+    initialSize: 1
+    maxWait: 60000
+    minIdle: 1
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: select 'x'
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    maxOpenPreparedStatements: 20
+
+mybatis:
+  basepackage: com.github.wxiaoqi.cloud.auth.mapper
+  xmlLocation: classpath:mapper/**/*.xml
+  mapper-locations: "classpath*:mapper/*.xml"
+
+mapper:
+  mappers: com.github.wxiaoqi.cloud.common.mapper.CommonMapper
+
+server:
+  port: 9777 #启动端口
+
+jwt:
+  token-header: Authorization
+  expire: 3600
+  rsa-secret: xx1WET12^%3^(WE45
+
+security:
+  ignoreResources: # 配置哪些路径不做登录控制
+    - /v2/api-docs
+    - /swagger-resources/**
+    - /static/**
+    - /error
+    - /admin/generator/build
+    - /favicon.ico
+    - /webjars/**
+    - /admin/groupType/all
+    - /admin/tenant/all
+    - /swagger-ui.html
+    - /admin/wf/editor/stencilset
+    - /.well-known/jwks.json
+    - /api/log/**
+    - /api/permissions
+    - /actuator/**
+# 配置ace-cache
+redis:
+  aec-key: xx288&^^%$!@#4dc
+  aec-iv: 0123456789abcdef
+  pool:
+    maxActive: 300
+    maxIdle: 100
+    maxWait: 1000
+  host: ${REDIS_HOST:localhost}
+  port:  ${REDIS_PORT:6379}
+  password:
+  timeout: 2000
+  # 服务或应用名
+  sysName: cloud_admin
+  enable: true
+  database: 0
+
+# 配置swagger
+swagger:
+  enabled: true
+  base-package: com.github.wxiaoqi.cloud.auth
+  title: ace-auth
+  version: 1.0.0.SNAPSHOT
+  description: 鉴权服务
+  contact:
+    name: auth
+
+
+logging:
+  level:
+    root: info
+    ## 这里设置为info，是因为如果不设置，debug时会不断打印mq日志。
+#    org.springframework.integration.endpoint.SourcePollingChannelAdapter: info
+#    org.springframework.security: DEBUG
+    com.github.wxiaoqi: DEBUG
+
+
+# 跨服务数据合并
+merge:
+  enabled: true
+  guavaCacheNumMaxSize: 1000
+  guavaCacheRefreshWriteTime: 10 # min
+  guavaCacheRefreshThreadPoolSize: 10
+  aop:
+    enabled: true
+
+
+# 具体看类:CloudStorageConfig
+oss:
+  type: 1 # 类型 1：七牛  2：阿里云  3：腾讯云
+  qiniuDomain: http://xxxxx
+  qiniuPrefix: xxx
+  qiniuAccessKey: xxxxx
+  qiniuSecretKey: xxxxx
+  qiniuBucketName: xxxx
+
+search:
+  lucence:
+    path: ./lucence/file
+
+
+#Actuator配置：暴露敏感路径，默认情况下，敏感路径并不暴露
+management:
+  endpoints:
+    web:
+      exposure:
+        # 暴露xxx端点，如需暴露多个，用,分隔；如需暴露所有端点，用'*'
+        include: "*"
+  endpoint:
+    health:
+      # 是否展示健康检查详情
+      show-details: ALWAYS

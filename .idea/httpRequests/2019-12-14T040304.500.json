@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-14 16:03:04",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "No message available",
+  "path": "/admin/gatelog/list"
+}

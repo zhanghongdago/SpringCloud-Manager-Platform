@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: ${NACOS_HOST:localhost}:${NACOS_PORT:8848}
+        file-extension: yaml
+      discovery:
+        server-addr: ${NACOS_HOST:localhost}:${NACOS_PORT:8848}
+    sentinel:
+      transport:
+        dashboard: ${SENTINEL_HOST:localhost}:${SENTINEL_PORT:8080}
+  profiles:
+    active: dev
+  main:
+    allow-bean-definition-overriding: true

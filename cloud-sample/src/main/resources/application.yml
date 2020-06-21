@@ -1,0 +1,84 @@
+server:
+  port: 8766
+
+spring:
+  application:
+      name: cloud-sample
+  datasource:
+      name: test
+      url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/cloud_sample?useUnicode=true&characterEncoding=UTF8
+      username: root
+      password: 123456
+      # 使用druid数据源
+      type: com.alibaba.druid.pool.DruidDataSource
+      driver-class-name: com.mysql.jdbc.Driver
+      druid:
+        filters: stat
+        maxActive: 20
+        initialSize: 1
+        maxWait: 60000
+        minIdle: 1
+        timeBetweenEvictionRunsMillis: 60000
+        minEvictableIdleTimeMillis: 300000
+        validationQuery: select 'x'
+        testWhileIdle: true
+        testOnBorrow: false
+        testOnReturn: false
+        poolPreparedStatements: true
+        maxOpenPreparedStatements: 20
+  redis:
+      database: 2
+      host: 127.0.0.1
+      jedis:
+        pool:
+            max-active: 20
+  sleuth:
+    enabled: true
+    http:
+      legacy:
+        enabled: true
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri:  http://${AUTH_SERVER_HOST:localhost}:${AUTH_SERVER_PORT:9777}/.well-known/jwks.json
+#  sentinel:
+#    transport:
+#      dashboard: localhost:8080
+logging:
+  level:
+    com.github.wxiaoqi.cloud.gate.v2: info
+#    com
+    org.springframework: DEBUG
+mybatis:
+  basepackage: com.github.wxiaoqi.cloud.sample.mapper
+  xmlLocation: classpath:mapper/**/*.xml
+  mapper-locations: "classpath*:mapper/*.xml"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  security:
+    enabled: false
+
+
+# 配置swagger
+swagger:
+    enabled: true
+    base-package: xxxx
+    title: cloud-sample
+    version: 1.0.0.SNAPSHOT
+    description: cloud-sample
+    contact:
+        name: ${author}
+security:
+  ignoreResources: # 配置哪些路径不做登录控制
+    - /v2/api-docs
+    - /swagger-resources/**
+    - /static/**
+    - /error
+    - /favicon.ico
+    - /webjars/**
+    - /swagger-ui.html

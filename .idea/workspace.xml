@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d655e82-e090-4ebf-8cf2-5cabdba0d16d" name="Default" comment="" />
+    <ignored path="ace-security.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/ace-center/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/ace-workflow/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/target/" />
+    <ignored path="$PROJECT_DIR$/ace-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-demo/target/" />
+    <ignored path="$PROJECT_DIR$/ace-common/target/" />
+    <ignored path="$PROJECT_DIR$/ace-demo/ace-oauth-sso-client/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-core/tx-client/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/target/" />
+    <ignored path="$PROJECT_DIR$/ace-control/ace-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/ace-auth/ace-auth-client/target/" />
+    <ignored path="$PROJECT_DIR$/ace-job/xxl-job-admin/target/" />
+    <ignored path="$PROJECT_DIR$/ace-control/ace-trace/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-core/transaction-springcloud/target/" />
+    <ignored path="$PROJECT_DIR$/ace-one/target/" />
+    <ignored path="$PROJECT_DIR$/ace-auth/target/" />
+    <ignored path="$PROJECT_DIR$/ace-job/xxl-job-executor-samples/target/" />
+    <ignored path="$PROJECT_DIR$/ace-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/ace-dict/target/" />
+    <ignored path="$PROJECT_DIR$/ace-gate/ace-gate-ratelimit/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-core/tx-plugins-db/target/" />
+    <ignored path="$PROJECT_DIR$/ace-generator/target/" />
+    <ignored path="$PROJECT_DIR$/ace-auth/ace-auth-server/target/" />
+    <ignored path="$PROJECT_DIR$/ace-control/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ace-gate/ace-gate-server/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/ace-tool/target/" />
+    <ignored path="$PROJECT_DIR$/ace-job/xxl-job-core/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-core/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-core/tx-manager/target/" />
+    <ignored path="$PROJECT_DIR$/ace-demo/ace-demo-depart-data/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-demo/ace-transaction-demo2/target/" />
+    <ignored path="$PROJECT_DIR$/ace-transaction/ace-transaction-demo/ace-transaction-demo1/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/ace-admin/target/" />
+    <ignored path="$PROJECT_DIR$/ace-gate/target/" />
+    <ignored path="$PROJECT_DIR$/ace-demo/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/ace-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ace-job/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/ace-core/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-common/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-one/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-gate/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-api/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-dto/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-admin/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/cloud-sample/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-infrastructure/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-generator/target/" />
+    <ignored mask="*.factorypath" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloud_admin@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ace-security" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RequestBodyRoutePredicateFactory</find>
+      <find>Authorization</find>
+      <find>RequestHeaderConstants.AUTHORIZATION</find>
+      <find>&quot;Authorization&quot;</find>
+      <find>cloud-admin</find>
+      <find>/api</find>
+      <find>oauthClientDetails</find>
+      <find>spring-cloud-alibaba</find>
+      <find>spring-cloud-starter-alibaba</find>
+      <find>123456QWE</find>
+      <find>velo</find>
+      <find>平台</find>
+      <find>/admin/generator</find>
+      <find>generator</find>
+      <find>name</find>
+      <find>datasource</find>
+      <find>TxFeignConfiguration</find>
+      <find>wanghaobin</find>
+      <find>author</find>
+      <find>member</find>
+      <find>Activi</find>
+      <find>Acti</find>
+      <find>服务</find>
+      <find>lom</find>
+      <find>Dockerfile.txt</find>
+      <find>MYSQL_SLAVE_SERVICE_HOST</find>
+      <find>/static</find>
+      <find>/api/admin/tenant/all</find>
+      <find>SENTINEL_HOST</find>
+      <find>118.126.104.133</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2014314038</replace>
+      <replace>5.1.4</replace>
+      <replace>@author 老干爹</replace>
+      <replace>ace-parent</replace>
+      <replace>Copyright (C) 2018  Laogandie&lt;2014314038@qq.com&gt;</replace>
+      <replace>老干爹</replace>
+      <replace>Boot-Platform</replace>
+      <replace>cloud</replace>
+      <replace>com.github.cloud</replace>
+      <replace>com.github.wxiaoqi.cloud</replace>
+      <replace>com.github.wxiaoqi.cloud.dto</replace>
+      <replace />
+      <replace>123456</replace>
+      <replace>laogandie</replace>
+      <replace>localhost</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ace-one/src/main/java/com/github/wxiaoqi/security/auth/module/dict</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/cvte/cbd-client-sdk" value="3040648689573" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/TxFeignConfiguration.java.vm" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/MybatisDataConfiguration.java.vm" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/application/service/GeneratorService.java" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/application/controller/GeneratorController.java" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/Bootstrap.java.vm" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/SecurityConfiguration.java.vm" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/WebConfiguration.java.vm" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/application/util/GeneratorUtils.java" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/ResourceServerConfiguration.java.vm" />
+        <option value="$PROJECT_DIR$/cloud-sample/src/main/java/com/github/wxiaoqi/cloud/sample/config/ResourceServerConfiguration.java" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/application.yml.vm" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/admin/rest/GroupController.java" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/mapper/GroupMapper.xml" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/admin/entity/GateLog.java" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/public/modeler.html" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/public/static/modeler.html" />
+        <option value="$PROJECT_DIR$/cloud-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-sample/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cloud-sample/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/config/GatewayConfig.java" />
+        <option value="$PROJECT_DIR$/cloud-generator/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/DB/cloud_admin.sql" />
+        <option value="$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/bootstrap.yml.vm" />
+        <option value="$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cloud-gate/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/Dockerfile.vm" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/cloud-gate/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/cloud-gate/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker/init.d/custom.properties/application.properties" />
+        <option value="$PROJECT_DIR$/docker/init.d/customer.properties" />
+        <option value="$PROJECT_DIR$/DB/cloud_nacos.sql" />
+        <option value="$PROJECT_DIR$/cloud-common/src/main/java/com/github/wxiaoqi/cloud/common/feign/OkHttpTokenInterceptor.java" />
+        <option value="$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/feign/IUserService.java" />
+        <option value="$PROJECT_DIR$/cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-common/src/main/java/com/github/wxiaoqi/cloud/common/feign/FeignOkHttpConfig.java" />
+        <option value="$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/config/ResourceServerConfigurer.java" />
+        <option value="$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/GatewayServerBootstrap.java" />
+        <option value="$PROJECT_DIR$/cloud-gate/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/docker/init.d/custom.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-admin/src/main/resources/template/pom.xml.vm" />
+        <option value="$PROJECT_DIR$/docker/conf/my.cnf" />
+        <option value="$PROJECT_DIR$/docker/init/init.sql" />
+        <option value="$PROJECT_DIR$/docker/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="sonar" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/cloud-admin/src/main/resources/public/static/editor-app/libs/es5-shim-15.3.4.5/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="One-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="HttpWebHandlerAdapter&#9;PSI&#9;JAVA://org.springframework.web.server.adapter.HttpWebHandlerAdapter&#10;DataSourceInitializerInvoker&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker&#10;RouteDefinitionRouteLocator&#9;PSI&#9;JAVA://org.springframework.cloud.gateway.route.RouteDefinitionRouteLocator&#10;USERAUTH&#9;PSI&#9;JAVA://com.github.wxiaoqi.cloud.common.interceptor.UserAuthInfoInterceptor&#10;org.springframework.security.oauth2.jwt.Jwt&#9;PSI&#9;JAVA://org.springframework.security.oauth2.jwt.Jwt&#10;Jwt&#9;PSI&#9;JAVA://com.github.wxiaoqi.cloud.auth.module.jwt.user.JwtTokenUtil&#10;WebSecurityConfigurerAdapter&#9;FILE&#9;jar:///Users/ace/.m2/repository/org/springframework/security/spring-security-config/5.1.3.RELEASE/spring-security-config-5.1.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java&#10;ExchangeFunctions&#9;PSI&#9;JAVA://org.springframework.web.reactive.function.client.ExchangeFunctions&#10;StringDecoder&#9;PSI&#9;JAVA://org.springframework.core.codec.StringDecoder&#10;EnableWebSecurity&#9;FILE&#9;jar:///Users/ace/.m2/repository/org/springframework/security/spring-security-config/5.1.3.RELEASE/spring-security-config-5.1.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.java&#10;ResourceServerConfigurer&#9;PSI&#9;JAVA://com.github.wxiaoqi.cloud.gate.config.ResourceServerConfigurer&#10;DispatcherServletConfiguration&#9;PSI&#9;JAVA://org.activiti.spring.boot.DispatcherServletConfiguration&#10;JpaProcessEngineAutoConfiguration&#9;PSI&#9;JAVA://org.activiti.spring.boot.JpaProcessEngineAutoConfiguration&#10;Myba&#9;FILE&#9;file:///Users/ace/prod/AG-Boot/AG-Enterprise-Framework/ace-one/src/main/java/com/github/wxiaoqi/security/auth/configuration/MybatisDataConfig.java&#10;PermissionService&#9;FILE&#9;file:///Users/ace/prod/AG-Boot/AG-Enterprise-Framework/ace-one/src/main/java/com/github/wxiaoqi/security/auth/module/admin/service/PermissionService.java&#10;User&#9;FILE&#9;file:///Users/ace/prod/AG-Boot/AG-Enterprise-Framework/ace-one/src/main/java/com/github/wxiaoqi/security/auth/interceptor/UserAuthRestInterceptor.java&#10;TokenEndpoint&#9;FILE&#9;jar:///Users/ace/.m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/TokenEndpoint.java&#10;BaseC&#9;FILE&#9;file:///Users/ace/prod/AG-Boot/AG-Enterprise-Framework/ace-common/src/main/java/com/github/wxiaoqi/security/common/rest/BaseController.java&#10;org.springframework.data.redis.connection.RedisConnection&#9;PSI&#9;JAVA://org.springframework.data.redis.connection.RedisConnection&#10;re&#9;PSI&#9;JAVA://com.github.wxiaoqi.security.auth.constant.RedisKeyConstant&#10;RedisConnection&#9;FILE&#9;jar:///Users/ace/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisConnectionConfiguration.class&#10;MenuBiz&#9;PSI&#9;JAVA://com.github.wxiaoqi.security.auth.module.admin.biz.MenuBiz&#10;com.github.wxiaoqi.security.admin.mapper.UserMapper&#9;PSI&#9;JAVA://com.github.wxiaoqi.security.auth.module.admin.mapper.UserMapper" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ace-common/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.github.wxiaoqi.security.common.interceptor" />
+      <recent name="com.github.wxiaoqi.security.common.constant" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.wxiaoqi.cloud.common.feign" />
+      <recent name="template" />
+      <recent name="com.github.wxiaoqi.cloud.auth.module.application.util" />
+      <recent name="com.github.wxiaoqi.cloud.auth.module.application.service" />
+      <recent name="com.github.wxiaoqi.cloud.auth.module.application.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/init" />
+      <recent name="$PROJECT_DIR$/cloud-admin/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/src/main" />
+      <recent name="$PROJECT_DIR$/cloud-gate/src/main" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8765" />
+          <option name="urlPath" value="/api/admin/oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic dnVlOnZ1ZQ==" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-Tenant-Auth" />
+                <option name="value" value="ac88ceb386aa4231b09bf472cb937c24" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="username:admin password:admin grant_type:password" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8765" />
+          <option name="urlPath" value="/api/admin/ac88ceb386aa4231b09bf472cb937c24/gateLog/page" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsInVzZXJfbmFtZSI6ImFkbWluIiwic2NvcGUiOlsicmVhZCJdLCJleHBpcmUiOjE1NzYzMTM4ODA4NjUsImV4cCI6MTU3NjMyNDY4MCwiZGVwYXJ0Ijoicm9vdCIsInVzZXJOYW1lIjoi6ICB5bmy54i5IiwidXNlcklkIjoiMSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI0YWEwNjk3OS02ZjU3LTQxMmQtOGJlMC03NDc1YmNlZjVjYTAiLCJ0ZW5hbnQiOiJhYzg4Y2ViMzg2YWE0MjMxYjA5YmY0NzJjYjkzN2MyNCIsImNsaWVudF9pZCI6InZ1ZSJ9.iL9UUQXzQc_tunxMDdU3bDmhK9vgLndYTWwXLULLuttGhXJugbcTtps39KFFkosgqTxU3uuCCp62fMDxsuK8hzTbHUV11HpAi4M_IH6kyTt_Op3Iw7rlRY507su3MKVVuUMiby5Z-wT810dSDg_SjdcZ8D1N21PWZX8SaNHA6Uc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8765" />
+          <option name="urlPath" value="/api/admin/gatelog/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsInVzZXJfbmFtZSI6ImFkbWluIiwic2NvcGUiOlsicmVhZCJdLCJleHBpcmUiOjE1NzYzMTM4ODA4NjUsImV4cCI6MTU3NjMyNDY4MCwiZGVwYXJ0Ijoicm9vdCIsInVzZXJOYW1lIjoi6ICB5bmy54i5IiwidXNlcklkIjoiMSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI0YWEwNjk3OS02ZjU3LTQxMmQtOGJlMC03NDc1YmNlZjVjYTAiLCJ0ZW5hbnQiOiJhYzg4Y2ViMzg2YWE0MjMxYjA5YmY0NzJjYjkzN2MyNCIsImNsaWVudF9pZCI6InZ1ZSJ9.iL9UUQXzQc_tunxMDdU3bDmhK9vgLndYTWwXLULLuttGhXJugbcTtps39KFFkosgqTxU3uuCCp62fMDxsuK8hzTbHUV11HpAi4M_IH6kyTt_Op3Iw7rlRY507su3MKVVuUMiby5Z-wT810dSDg_SjdcZ8D1N21PWZX8SaNHA6Uc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GeneratorServerBootstrap">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ace-workflow" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="AdminBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wxiaoqi.cloud.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wxiaoqi.cloud.auth.AdminBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="MYSQL_HOST" value="118.126.104.133" />
+      </envs>
+    </configuration>
+    <configuration name="GatewayServerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wxiaoqi.cloud.gate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wxiaoqi.cloud.gate.GatewayServerBootstrap" />
+    </configuration>
+    <configuration name="GeneratorServerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wxiaoqi.cloud.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wxiaoqi.cloud.generator.GeneratorServerBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="MYSQL_HOST" value="118.126.104.133" />
+      </envs>
+    </configuration>
+    <configuration name="OneBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wxiaoqi.cloud.monitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wxiaoqi.cloud.monitor.OneBootstrap" />
+    </configuration>
+    <configuration name="OneBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wxiaoqi.cloud.monitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wxiaoqi.cloud.monitor.OneBootstrap" />
+    </configuration>
+    <configuration name="SampleServerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-sample" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wxiaoqi.cloud.sample.SampleServerBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="MYSQL_HOST" value="118.126.104.133" />
+      </envs>
+    </configuration>
+    <configuration name="SpringBootAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wxiaoqi.cloud.monitor.SpringBootAdminApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringBootAdminApplication" />
+      <item itemvalue="Spring Boot.SampleServerBootstrap" />
+      <item itemvalue="Spring Boot.OneBootstrap" />
+      <item itemvalue="Spring Boot.AdminBootstrap" />
+      <item itemvalue="Spring Boot.GatewayServerBootstrap" />
+      <item itemvalue="Spring Boot.GeneratorServerBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GeneratorServerBootstrap" />
+        <item itemvalue="Spring Boot.GatewayServerBootstrap" />
+        <item itemvalue="Spring Boot.AdminBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d655e82-e090-4ebf-8cf2-5cabdba0d16d" name="Default" comment="" />
+      <created>1522666771153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522666771153</updated>
+      <workItem from="1522666772931" duration="2491000" />
+      <workItem from="1524563776805" duration="16000" />
+      <workItem from="1524642727834" duration="21000" />
+      <workItem from="1524804771402" duration="993000" />
+      <workItem from="1524884776345" duration="254000" />
+      <workItem from="1524903422128" duration="224000" />
+      <workItem from="1524904308151" duration="975000" />
+      <workItem from="1525065824227" duration="864000" />
+      <workItem from="1525066988249" duration="342000" />
+      <workItem from="1525100918642" duration="46000" />
+      <workItem from="1525261452883" duration="255000" />
+      <workItem from="1525335298725" duration="52000" />
+      <workItem from="1525437839647" duration="16000" />
+      <workItem from="1525587583337" duration="943000" />
+      <workItem from="1525677890233" duration="405000" />
+      <workItem from="1525753200620" duration="13000" />
+      <workItem from="1525854636730" duration="445000" />
+      <workItem from="1525947167877" duration="177000" />
+      <workItem from="1526364832431" duration="2514000" />
+      <workItem from="1526371481785" duration="433000" />
+      <workItem from="1526372049198" duration="258000" />
+      <workItem from="1526387347292" duration="692000" />
+      <workItem from="1526432270543" duration="96000" />
+      <workItem from="1527224825247" duration="22000" />
+      <workItem from="1529666977980" duration="983000" />
+      <workItem from="1529668591061" duration="31000" />
+      <workItem from="1529668644372" duration="30000" />
+      <workItem from="1529668744637" duration="2158000" />
+      <workItem from="1531354623938" duration="24000" />
+      <workItem from="1532696444511" duration="25000" />
+      <workItem from="1534642212454" duration="408000" />
+      <workItem from="1535117113079" duration="14000" />
+      <workItem from="1538553327585" duration="57000" />
+      <workItem from="1539780646497" duration="477000" />
+      <workItem from="1543280800566" duration="6000" />
+      <workItem from="1544693513481" duration="170000" />
+      <workItem from="1546145457065" duration="16121000" />
+      <workItem from="1546307734276" duration="1614000" />
+      <workItem from="1546311686539" duration="1293000" />
+      <workItem from="1546388159456" duration="128000" />
+      <workItem from="1550652643625" duration="3761000" />
+      <workItem from="1550664976148" duration="3622000" />
+      <workItem from="1550812074167" duration="4815000" />
+      <workItem from="1550832862283" duration="690000" />
+      <workItem from="1550891443013" duration="945000" />
+      <workItem from="1550892488239" duration="606000" />
+      <workItem from="1550912430725" duration="999000" />
+      <workItem from="1551013697594" duration="10000" />
+      <workItem from="1551789821034" duration="15000" />
+      <workItem from="1552119348164" duration="11237000" />
+      <workItem from="1552230321242" duration="358000" />
+      <workItem from="1552309962308" duration="3671000" />
+      <workItem from="1552479470050" duration="1164000" />
+      <workItem from="1552483355537" duration="3941000" />
+      <workItem from="1552564418101" duration="1396000" />
+      <workItem from="1552652770525" duration="5240000" />
+      <workItem from="1552663883006" duration="1703000" />
+      <workItem from="1552729914518" duration="5034000" />
+      <workItem from="1552829695783" duration="49000" />
+      <workItem from="1553395112931" duration="10728000" />
+      <workItem from="1553731698518" duration="89000" />
+      <workItem from="1553731847728" duration="55000" />
+      <workItem from="1553731918772" duration="974000" />
+      <workItem from="1553781998902" duration="2885000" />
+      <workItem from="1553866707587" duration="7685000" />
+      <workItem from="1553949762090" duration="20608000" />
+      <workItem from="1554512338251" duration="11233000" />
+      <workItem from="1556439303738" duration="11000" />
+      <workItem from="1557733762611" duration="13000" />
+      <workItem from="1562159347946" duration="3841000" />
+      <workItem from="1562250049400" duration="2768000" />
+      <workItem from="1562414790164" duration="10400000" />
+      <workItem from="1564207126518" duration="1137000" />
+      <workItem from="1565271984555" duration="31000" />
+      <workItem from="1565272147119" duration="39000" />
+      <workItem from="1565672241112" duration="14000" />
+      <workItem from="1565679301304" duration="809000" />
+      <workItem from="1565681406711" duration="283000" />
+      <workItem from="1575029279001" duration="346000" />
+      <workItem from="1575111251968" duration="21611000" />
+      <workItem from="1575196804731" duration="585000" />
+      <workItem from="1575796352033" duration="6092000" />
+      <workItem from="1576309015521" duration="21366000" />
+      <workItem from="1577193995685" duration="1789000" />
+      <workItem from="1577280786255" duration="128000" />
+      <workItem from="1577363902280" duration="193000" />
+      <workItem from="1577439650757" duration="9112000" />
+      <workItem from="1577969166276" duration="4848000" />
+      <workItem from="1578013770107" duration="3367000" />
+      <workItem from="1578017688669" duration="23000" />
+      <workItem from="1578058047858" duration="2682000" />
+      <workItem from="1578141774153" duration="8451000" />
+      <workItem from="1579610852367" duration="1034000" />
+      <workItem from="1579660755980" duration="12123000" />
+      <workItem from="1580095889190" duration="49315000" />
+      <workItem from="1580903745582" duration="13142000" />
+      <workItem from="1580999922685" duration="1962000" />
+      <workItem from="1581317336333" duration="162000" />
+      <workItem from="1581317931268" duration="286000" />
+      <workItem from="1585445045628" duration="63000" />
+    </task>
+    <task id="LOCAL-00001" summary="调整工程结构">
+      <created>1550915329262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550915329263</updated>
+    </task>
+    <task id="LOCAL-00002" summary="移除JWT模块">
+      <created>1552231210523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552231210524</updated>
+    </task>
+    <task id="LOCAL-00003" summary="企业级功能完善">
+      <created>1552746822969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552746822969</updated>
+    </task>
+    <task id="LOCAL-00004" summary="企业级功能完善">
+      <created>1552746840307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552746840307</updated>
+    </task>
+    <task id="LOCAL-00005" summary="工作流">
+      <created>1553412885484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553412885485</updated>
+    </task>
+    <task id="LOCAL-00006" summary="工作流模型设计">
+      <created>1553950197633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553950197633</updated>
+    </task>
+    <task id="LOCAL-00007" summary="工作流模型设计">
+      <created>1554023986481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554023986481</updated>
+    </task>
+    <task id="LOCAL-00008" summary="完善工作流模型设计">
+      <created>1554524695181</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554524695182</updated>
+    </task>
+    <task id="LOCAL-00009" summary="完善工作流模型设计">
+      <created>1554542114823</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554542114823</updated>
+    </task>
+    <task id="LOCAL-00010" summary="v2.0 工作流模块">
+      <created>1554542258900</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554542258900</updated>
+    </task>
+    <task id="LOCAL-00011" summary="v2.0 工作流模块">
+      <created>1562254484856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562254484856</updated>
+    </task>
+    <task id="LOCAL-00012" summary="v2.0 优化角色用户授权">
+      <created>1562478753651</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562478753651</updated>
+    </task>
+    <task id="LOCAL-00013" summary="v2.0 优化角色用户授权">
+      <created>1562484123284</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1562484123286</updated>
+    </task>
+    <task id="LOCAL-00014" summary="v2.0 优化角色用户授权">
+      <created>1564207158963</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1564207158963</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[feat] gateway集成Oauth2，gateway待集成权限验证">
+      <created>1575212419739</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575212419739</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[feat] gateway集成Oauth2，gateway待集成权限验证">
+      <created>1576335674423</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1576335674423</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[feat] 完善租户和日志模块">
+      <created>1576393839892</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1576393839892</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[feat] 完善sample模块">
+      <created>1578011007219</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1578011007219</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[feat] 完善sample模块">
+      <created>1578011065178</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1578011065178</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[feat] 完善sample模块">
+      <created>1578016303620</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1578016303622</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[feat] 完善sample模块">
+      <created>1578016540249</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1578016540249</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[feat] 完善sample模块">
+      <created>1578017434154</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1578017434154</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[feat] 完善sample模块">
+      <created>1578017457794</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1578017457794</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[feat] 完善sample模块">
+      <created>1578060708952</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1578060708953</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[feat] 完善sample模块">
+      <created>1578215495037</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1578215495038</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[feat] 添加boot admin监控模块">
+      <created>1578228048301</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1578228048301</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[feat] 添加代码生成服务">
+      <created>1579684525587</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1579684525587</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[feat] 添加平台应用代码生成器">
+      <created>1579782660599</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1579782660599</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[feat] 增加应用代码">
+      <created>1580301174912</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1580301174913</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[feat] 调整服务生成代码">
+      <created>1580367726146</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1580367726146</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[feat] 细节优化">
+      <created>1580448938269</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1580448938270</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[feat] 集成流量控制">
+      <created>1580631411752</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1580631411752</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[feat] 集成流量控制">
+      <created>1580805437044</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1580805437045</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[feat] 集成docker">
+      <created>1580825917705</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1580825917705</updated>
+    </task>
+    <task id="LOCAL-00035" summary="[feat] 集成docker-compose">
+      <created>1580888557024</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1580888557026</updated>
+    </task>
+    <task id="LOCAL-00036" summary="[feat] 集成docker-compose">
+      <created>1580905785706</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1580905785708</updated>
+    </task>
+    <task id="LOCAL-00037" summary="[feat] 集成docker-compose&#10;&#10;1、前端docker集成&#10;2、后端okhttp添加">
+      <created>1580954512813</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1580954512813</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[feat] 集成修复gate component scan问题">
+      <created>1580956412045</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1580956412046</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[feat] 集成修复gate component scan问题">
+      <created>1580965090082</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1580965090082</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[feat] 集成修复gate component scan问题">
+      <created>1580975944258</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1580975944258</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[feat] 集成修复gate component scan问题">
+      <created>1580985944192</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1580985944192</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[feat] 集成mysql">
+      <created>1581039944001</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1581039944001</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="317625000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="8" weight="0.3297568" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5028612" side_tool="true" weight="0.4969697" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.33476394" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49570817" visible="true" weight="0.06545454" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.51757574" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49713877" weight="0.61333334" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3583691" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49642345" weight="0.3927273" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.48606062" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="DB Browser" order="2" weight="0.3297568" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985694" weight="0.32484847" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3260606" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="14" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info anchor="right" id="PlantUML" order="8" weight="0.3297568" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.48606062" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.51757574" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info id="DB Browser" order="2" weight="0.3297568" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5028612" side_tool="true" weight="0.4969697" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="14" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49570817" weight="0.5781818" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.33476394" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49713877" visible="true" weight="0.61333334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34334764" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985694" weight="0.32484847" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3260606" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49642345" weight="0.3927273" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="调整工程结构" />
+    <MESSAGE value="移除JWT模块" />
+    <MESSAGE value="企业级功能完善" />
+    <MESSAGE value="工作流" />
+    <MESSAGE value="工作流模型设计" />
+    <MESSAGE value="完善工作流模型设计" />
+    <MESSAGE value="v2.0 工作流模块" />
+    <MESSAGE value="v2.0 优化角色用户授权" />
+    <MESSAGE value="[feat] gateway集成Oauth2，gateway待集成权限验证" />
+    <MESSAGE value="[feat] 完善租户和日志模块" />
+    <MESSAGE value="[feat] 完善sample模块" />
+    <MESSAGE value="[feat] 添加boot admin监控模块" />
+    <MESSAGE value="[feat] 添加代码生成服务" />
+    <MESSAGE value="[feat] 添加平台应用代码生成器" />
+    <MESSAGE value="[feat] 增加应用代码" />
+    <MESSAGE value="[feat] 调整服务生成代码" />
+    <MESSAGE value="[feat] 细节优化" />
+    <MESSAGE value="[feat] 集成流量控制" />
+    <MESSAGE value="[feat] 集成docker" />
+    <MESSAGE value="[feat] 集成docker-compose" />
+    <MESSAGE value="[feat] 集成docker-compose&#10;&#10;1、前端docker集成&#10;2、后端okhttp添加" />
+    <MESSAGE value="[feat] 集成修复gate component scan问题" />
+    <MESSAGE value="[feat] 集成mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] 集成mysql" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-oauth2-jose/5.1.3.RELEASE/spring-security-oauth2-jose-5.1.3.RELEASE-sources.jar!/org/springframework/security/oauth2/jwt/NimbusReactiveJwtDecoder.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-oauth2-jose/5.1.3.RELEASE/spring-security-oauth2-jose-5.1.3.RELEASE-sources.jar!/org/springframework/security/oauth2/jwt/NimbusReactiveJwtDecoder.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="200" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="BaseContextHandler.getTenantID()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>source.get(0).getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>source.get(0).getSqlStatMap()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>source.get(0).getStatData()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>source</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BaseContextHandler.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.github.wxiaoqi.cloud.common.context.BaseContextHandler</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ReactiveSecurityContextHolder.getContext().subscribe(co-&gt;{
+    System.out.println(co);})</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.security.core.context.ReactiveSecurityContextHolder</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ReactiveSecurityContextHolder.getContext().subscribe(co-&gt;{
+    System.out.println(..);})</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.security.core.context.ReactiveSecurityContextHolder</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ReactiveSecurityContextHolder.getContext().subscribe(co-&gt;{})</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.security.core.context.ReactiveSecurityContextHolder</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ReactiveSecurityContextHolder.getContext()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.security.core.context.ReactiveSecurityContextHolder</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SecurityContextHolder.getContext()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cloud-sample/src/main/java/com/github/wxiaoqi/cloud/sample/config/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-sample/src/main/java/com/github/wxiaoqi/cloud/sample/config/ResourceServerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-sample/src/main/java/com/github/wxiaoqi/cloud/sample/config/WebConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-common/src/main/java/com/github/wxiaoqi/cloud/common/interceptor/UserAuthInfoInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="53" column="12" lean-forward="true" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/config/GatewayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/filter/AccessGatewayFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="109" column="5" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="109" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/admin/biz/MenuBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="105" column="32" lean-forward="true" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/admin/service/PermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="103" column="28" lean-forward="true" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB/cloud_admin.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1297">
+          <caret line="2104" lean-forward="true" selection-start-line="2104" selection-end-line="2104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-generator/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="60" column="107" lean-forward="true" selection-start-line="60" selection-start-column="85" selection-end-line="60" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/resources/template/bootstrap.yml.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/resources/template/Dockerfile.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3434">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/docker/init.d/custom.properties/application.properties" />
+    <entry file="file://$PROJECT_DIR$/cloud-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB/cloud_nacos.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/rpc/UserRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/config/FeignConfig.java" />
+    <entry file="file://$PROJECT_DIR$/cloud-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="168" column="21" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/feign/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-common/src/main/java/com/github/wxiaoqi/cloud/common/feign/FeignOkHttpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/AdminBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/resources/template/Bootstrap.java.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/resources/template/application.yml.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/oauth/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/oauth/config/OAuthSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1066">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/java/com/github/wxiaoqi/cloud/auth/module/oauth/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE-sources.jar!/org/springframework/web/server/adapter/HttpWebHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1218">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/config/ResourceServerConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/java/com/github/wxiaoqi/cloud/gate/GatewayServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/standalone-logs/start.out" />
+    <entry file="file://$PROJECT_DIR$/cloud-gate/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/standalone-logs/nacos.log" />
+    <entry file="file://$PROJECT_DIR$/docker/init.d/custom.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-common/src/main/java/com/github/wxiaoqi/cloud/common/feign/OkHttpTokenInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-admin/src/main/resources/template/pom.xml.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/conf/my.cnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/init/cloud_nacos.sql" />
+    <entry file="file://$PROJECT_DIR$/docker/init/cloud_admin.sql" />
+    <entry file="file://$PROJECT_DIR$/docker/init/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66096">
+          <caret line="2329" column="29" selection-start-line="2329" selection-start-column="29" selection-end-line="2329" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>xxl-job-admin:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cloud-parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

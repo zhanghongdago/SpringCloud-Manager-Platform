@@ -1,0 +1,89 @@
+logging:
+    level:
+#        tk.mybatis: DEBUG
+        ${package}: DEBUG
+server:
+    port: 9999
+
+spring:
+    application:
+        name: ${clientId}
+    jackson:
+        date-format: yyyy-MM-dd HH:mm:ss
+        time-zone: GMT+8
+        default-property-inclusion: non_null
+    datasource:
+        name: test
+        url: jdbc:mysql://#[[${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}]]#/cloud_sample?useUnicode=true&characterEncoding=UTF8
+        username: root
+        password: 123456
+        # 使用druid数据源
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.jdbc.Driver
+        druid:
+            filters: stat
+            maxActive: 20
+            initialSize: 1
+            maxWait: 60000
+            minIdle: 1
+            timeBetweenEvictionRunsMillis: 60000
+            minEvictableIdleTimeMillis: 300000
+            validationQuery: select 'x'
+            testWhileIdle: true
+            testOnBorrow: false
+            testOnReturn: false
+            poolPreparedStatements: true
+            maxOpenPreparedStatements: 20
+    redis:
+        database: 1
+        host: #[[${REDIS_HOST:localhost}]]#
+        port: #[[${REDIS_PORT:6379}]]#
+        pool:
+            max-active: 20
+    sleuth:
+        enabled: true
+        http:
+          legacy:
+            enabled: true
+    security:
+        oauth2:
+            resourceserver:
+                jwt:
+                    jwk-set-uri:  #[[http://${AUTH_SERVER_HOST:localhost}]]#:#[[${AUTH_SERVER_PORT:9777}/.well-known/jwks.json]]#
+
+# 配置数据库
+mybatis:
+    basepackage:  ${package}.mapper
+    mapper-locations: "classpath*:mapper/*.xml"
+
+# 配置swagger
+swagger:
+    enabled: true
+    base-package: ${package}
+    title: ${clientId}
+    version: 1.0.0.SNAPSHOT
+    description: ${description}
+    contact:
+        name: ${author}
+
+mapper:
+  mappers: com.github.wxiaoqi.cloud.common.mapper.CommonMapper
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  security:
+    enabled: false
+
+security:
+  ignoreResources: # 配置哪些路径不做登录控制
+    - /v2/api-docs
+    - /swagger-resources/**
+    - /static/**
+    - /error
+    - /favicon.ico
+    - /actuator/**
+    - /swagger-ui.html
+    - /webjars/**

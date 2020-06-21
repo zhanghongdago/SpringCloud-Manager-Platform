@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-admin/cloud-admin.iml" filepath="$PROJECT_DIR$/cloud-admin/cloud-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud-common/cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-dto/cloud-dto.iml" filepath="$PROJECT_DIR$/cloud-dto/cloud-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gate/cloud-gate.iml" filepath="$PROJECT_DIR$/cloud-gate/cloud-gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-generator/cloud-generator.iml" filepath="$PROJECT_DIR$/cloud-generator/cloud-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-infrastructure/cloud-infrastructure.iml" filepath="$PROJECT_DIR$/cloud-infrastructure/cloud-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/cloud-monitor.iml" filepath="$PROJECT_DIR$/cloud-infrastructure/cloud-monitor/cloud-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-parent.iml" filepath="$PROJECT_DIR$/ace-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-sample/cloud-sample.iml" filepath="$PROJECT_DIR$/cloud-sample/cloud-sample.iml" />
+    </modules>
+  </component>
+</project>

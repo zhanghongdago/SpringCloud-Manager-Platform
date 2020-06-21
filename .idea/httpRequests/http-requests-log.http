@@ -1,0 +1,66 @@
+POST http://localhost:8765/api/admin/oauth/token
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic dnVlOnZ1ZQ==
+X-Tenant-Auth: ac88ceb386aa4231b09bf472cb937c24
+Content-Type: application/x-www-form-urlencoded
+
+username:admin password:admin grant_type:password
+
+<> 2019-12-14T075900.403.txt
+
+###
+
+POST http://localhost:8765/api/admin/oauth/token
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic dnVlOnZ1ZQ==
+X-Tenant-Auth: ac88ceb386aa4231b09bf472cb937c24
+Content-Type: application/x-www-form-urlencoded
+
+username:admin password:admin grant_type:password
+
+<> 2019-12-14T075848.403.txt
+
+###
+
+POST http://localhost:8765/api/admin/oauth/token
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic dnVlOnZ1ZQ==
+X-Tenant-Auth: ac88ceb386aa4231b09bf472cb937c24
+Content-Type: application/x-www-form-urlencoded
+
+username:admin password:admin grant_type:password
+
+<> 2019-12-14T075829.403.txt
+
+###
+
+GET http://localhost:8765/api/admin/ac88ceb386aa4231b09bf472cb937c24/gateLog/page
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsInVzZXJfbmFtZSI6ImFkbWluIiwic2NvcGUiOlsicmVhZCJdLCJleHBpcmUiOjE1NzYzMTM4ODA4NjUsImV4cCI6MTU3NjMyNDY4MCwiZGVwYXJ0Ijoicm9vdCIsInVzZXJOYW1lIjoi6ICB5bmy54i5IiwidXNlcklkIjoiMSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI0YWEwNjk3OS02ZjU3LTQxMmQtOGJlMC03NDc1YmNlZjVjYTAiLCJ0ZW5hbnQiOiJhYzg4Y2ViMzg2YWE0MjMxYjA5YmY0NzJjYjkzN2MyNCIsImNsaWVudF9pZCI6InZ1ZSJ9.iL9UUQXzQc_tunxMDdU3bDmhK9vgLndYTWwXLULLuttGhXJugbcTtps39KFFkosgqTxU3uuCCp62fMDxsuK8hzTbHUV11HpAi4M_IH6kyTt_Op3Iw7rlRY507su3MKVVuUMiby5Z-wT810dSDg_SjdcZ8D1N21PWZX8SaNHA6Uc
+
+<> 2019-12-14T042244.200.json
+
+###
+
+GET http://localhost:8765/api/admin/gatelog/list
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsInVzZXJfbmFtZSI6ImFkbWluIiwic2NvcGUiOlsicmVhZCJdLCJleHBpcmUiOjE1NzYzMTM4ODA4NjUsImV4cCI6MTU3NjMyNDY4MCwiZGVwYXJ0Ijoicm9vdCIsInVzZXJOYW1lIjoi6ICB5bmy54i5IiwidXNlcklkIjoiMSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI0YWEwNjk3OS02ZjU3LTQxMmQtOGJlMC03NDc1YmNlZjVjYTAiLCJ0ZW5hbnQiOiJhYzg4Y2ViMzg2YWE0MjMxYjA5YmY0NzJjYjkzN2MyNCIsImNsaWVudF9pZCI6InZ1ZSJ9.iL9UUQXzQc_tunxMDdU3bDmhK9vgLndYTWwXLULLuttGhXJugbcTtps39KFFkosgqTxU3uuCCp62fMDxsuK8hzTbHUV11HpAi4M_IH6kyTt_Op3Iw7rlRY507su3MKVVuUMiby5Z-wT810dSDg_SjdcZ8D1N21PWZX8SaNHA6Uc
+
+<> 2019-12-14T040304.500.json
+
+###
+
+GET http://localhost:8765/api/admin/gatelog/list
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsInVzZXJfbmFtZSI6ImFkbWluIiwic2NvcGUiOlsicmVhZCJdLCJleHBpcmUiOjE1NzYzMTM4ODA4NjUsImV4cCI6MTU3NjMyNDY4MCwiZGVwYXJ0Ijoicm9vdCIsInVzZXJOYW1lIjoi6ICB5bmy54i5IiwidXNlcklkIjoiMSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI0YWEwNjk3OS02ZjU3LTQxMmQtOGJlMC03NDc1YmNlZjVjYTAiLCJ0ZW5hbnQiOiJhYzg4Y2ViMzg2YWE0MjMxYjA5YmY0NzJjYjkzN2MyNCIsImNsaWVudF9pZCI6InZ1ZSJ9.iL9UUQXzQc_tunxMDdU3bDmhK9vgLndYTWwXLULLuttGhXJugbcTtps39KFFkosgqTxU3uuCCp62fMDxsuK8hzTbHUV11HpAi4M_IH6kyTt_Op3Iw7rlRY507su3MKVVuUMiby5Z-wT810dSDg_SjdcZ8D1N21PWZX8SaNHA6Uc
+
+<> 2019-12-14T035941.500.json
+
+###
+
